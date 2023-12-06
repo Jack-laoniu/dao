@@ -133,6 +133,7 @@ func (s *Session) Exec(query string, args ...interface{}) (int64, error) {
 	e.SetAttributes(
 		trace.Attribute("rowsAffected", ra),
 	)
+	e.End()
 	return ra, err
 }
 
