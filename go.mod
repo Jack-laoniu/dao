@@ -1,4 +1,4 @@
-module github.com/afocus/dao
+module github.com/Jack-laoniu/dao
 
 go 1.16
 
