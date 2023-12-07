@@ -1,4 +1,4 @@
-package dao
+package orm
 
 func lowUpperString(s string) string {
 	b := make([]byte, 0)

@@ -1,4 +1,4 @@
-package dao
+package orm
 
 import (
 	"database/sql"
