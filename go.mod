@@ -1,4 +1,4 @@
-module github.com/Jack-laoniu/dao
+module github.com/Jack-laoniu/orm
 
 go 1.16
 
